@@ -63,4 +63,14 @@ console.log(lista[1]);
 console.log(lista[3]);
 console.warn('OI');
 
-var nomeee = prompt('Digite o nome: ');
+//atribuição
+
+var soma = 1;
+console.log(soma);
+//soma = soma + 20
+soma += 20;
+console.log(soma);
+
+contador = 2;
+console.log(contador);
+console.log(contador);
