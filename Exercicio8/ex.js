@@ -9,7 +9,7 @@ alert(inicial);
 alert(inicial + raiz);
 resultado = inicial + raiz;
 
-for (i = 0; i < 11; i++) {
+for (i = 0; i < 8; i++) {
   resultado += raiz;
   alert(resultado);
 }
