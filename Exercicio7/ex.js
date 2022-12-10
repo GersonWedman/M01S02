@@ -18,4 +18,3 @@ for (var i = 2; i <= 1000; i++) {
   }
 }
 console.log('Quantidade de primos entre 0 e 1000: ' + quantidade);
-console.log('Quantidade de primos entre 0 e 1000: ' + quantidade);
